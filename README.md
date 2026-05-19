@@ -1,6 +1,6 @@
 # Hi 👋 I'm Karan Bisht
 
-Computer Science and Engineering (Data Science) student passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, Blockchain, and Backend Development.
+Computer Science and Engineering (Data Science) student passionate about Artificial Intelligence, Machine Learning, Deep Learning,Data Science,Data Analysis, NLP, Blockchain, and Backend Development.
 
 ---
 
@@ -9,6 +9,8 @@ Computer Science and Engineering (Data Science) student passionate about Artific
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Data Science
+- Data Analysis
 - NLP
 - Computer Vision
 - Time Series Forecasting
