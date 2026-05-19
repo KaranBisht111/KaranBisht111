@@ -53,5 +53,6 @@ Computer Science and Engineering (Data Science) student passionate about Artific
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/KaranBisht111
 - Email: bishtkaran850@gmail.com
+- GitHub: https://github.com/KaranBisht111
+- LinkedIn: www.linkedin.com/in/karanbisht1
