@@ -30,7 +30,6 @@ Computer Science and Engineering (Data Science) student passionate about Artific
 - Firebase
 - MySQL
 - HTML/CSS
-- JavaScript
 
 ---
 
